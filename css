@@ -1,0 +1,46 @@
+.info {
+}
+.container {
+}
+.info-one {
+  padding: 40px 20px;
+  border-radius: 30px;
+  max-width: 335px;
+  background-color: #f3f3f3;
+}
+
+.info-title {
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 1;
+  letter-spacing: -0.02em;
+  color: #0c0c0c;
+  margin-bottom: 28px;
+}
+
+.info-text {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.3;
+  letter-spacing: -0.02em;
+  color: rgba(12, 12, 12, 0.7);
+}
+
+.info-button {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.3;
+  text-align: center;
+  color: #fbfbfb;
+  border-radius: 16px;
+  background-color: #3350e9;
+  min-width: 160px;
+  padding: 15px 0;
+  cursor: pointer;
+}
+
+.info-two {
+}
+
+.info-img {
+}
